@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="508ab590-be4b-486f-8b42-0a98404ce75e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z5EUXZayP8fMlslc56YuGGxz7W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/JetBrains/pl_PL.dic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunManager">
+    <configuration name="zad5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad5" />
+      <module name="zad5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zad5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="1" Folder0="C:\Program Files\JetBrains" CustomDictionaries="1" CustomDictionary0="C:\Program Files\JetBrains\pl_PL.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jolap\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="508ab590-be4b-486f-8b42-0a98404ce75e" name="Default Changelist" comment="" />
+      <created>1584120570906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584120570906</updated>
+      <workItem from="1584120574063" duration="283000" />
+      <workItem from="1584120873351" duration="549000" />
+      <workItem from="1584121443480" duration="440000" />
+      <workItem from="1584121905761" duration="761000" />
+      <workItem from="1584122690523" duration="204000" />
+      <workItem from="1584122912172" duration="436000" />
+      <workItem from="1584123803127" duration="62000" />
+      <workItem from="1584123884600" duration="23000" />
+      <workItem from="1584124154769" duration="1305000" />
+      <workItem from="1584125615339" duration="379000" />
+      <workItem from="1584126014710" duration="6000" />
+      <workItem from="1584126038732" duration="7000" />
+      <workItem from="1584126234276" duration="26000" />
+      <workItem from="1584126278162" duration="4000" />
+      <workItem from="1584126451379" duration="1350000" />
+      <workItem from="1584127858738" duration="338000" />
+      <workItem from="1584128350276" duration="665000" />
+      <workItem from="1584130002059" duration="2720000" />
+      <workItem from="1584132748589" duration="1070000" />
+      <workItem from="1584133837086" duration="425000" />
+      <workItem from="1584134279062" duration="58000" />
+      <workItem from="1584134463127" duration="4532000" />
+      <workItem from="1584191591758" duration="8753000" />
+      <workItem from="1584203006138" duration="10981000" />
+      <workItem from="1585570242742" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Inspections" timestamp="1584134234181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1584134234181" />
+    <state x="361" y="70" width="814" height="732" key="#Intentions" timestamp="1584132729416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" width="814" height="732" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1584132729416" />
+    <state x="361" y="70" key="#Plugins" timestamp="1584132694517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1584132694517" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1584121523032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584121523032" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584124293004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584124293004" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1584133946459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584133946459" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1584222306147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584222306147" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1584222306147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584222306147" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1584222306143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584222306143" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1584222306147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584222306147" />
+    <state x="231" y="11" width="981" height="729" key="SettingsEditor" timestamp="1584134185562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="231" y="11" width="981" height="729" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584134185562" />
+    <state x="524" y="256" key="cloudConfig.SelfSettingsDialog" timestamp="1584129920710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="256" key="cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584129920710" />
+    <state x="209" y="0" key="new project wizard" timestamp="1585570340334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585570340334" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584130415018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584130415018" />
+  </component>
+</project>
